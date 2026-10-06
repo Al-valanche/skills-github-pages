@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Becky smells, hahah! This website proves it
 ---
